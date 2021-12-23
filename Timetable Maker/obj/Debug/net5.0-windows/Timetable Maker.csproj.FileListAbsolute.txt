@@ -1,0 +1,38 @@
+C:\Users\Worker\Desktop\программирование\пятый семестр\Timetable_Maker\Timetable Maker\bin\Debug\net5.0-windows\Timetable Maker.exe
+C:\Users\Worker\Desktop\программирование\пятый семестр\Timetable_Maker\Timetable Maker\bin\Debug\net5.0-windows\Timetable Maker.deps.json
+C:\Users\Worker\Desktop\программирование\пятый семестр\Timetable_Maker\Timetable Maker\bin\Debug\net5.0-windows\Timetable Maker.runtimeconfig.json
+C:\Users\Worker\Desktop\программирование\пятый семестр\Timetable_Maker\Timetable Maker\bin\Debug\net5.0-windows\Timetable Maker.runtimeconfig.dev.json
+C:\Users\Worker\Desktop\программирование\пятый семестр\Timetable_Maker\Timetable Maker\bin\Debug\net5.0-windows\Timetable Maker.dll
+C:\Users\Worker\Desktop\программирование\пятый семестр\Timetable_Maker\Timetable Maker\bin\Debug\net5.0-windows\ref\Timetable Maker.dll
+C:\Users\Worker\Desktop\программирование\пятый семестр\Timetable_Maker\Timetable Maker\bin\Debug\net5.0-windows\Timetable Maker.pdb
+C:\Users\Worker\Desktop\программирование\пятый семестр\Timetable_Maker\Timetable Maker\obj\Debug\net5.0-windows\Timetable Maker.csproj.AssemblyReference.cache
+C:\Users\Worker\Desktop\программирование\пятый семестр\Timetable_Maker\Timetable Maker\obj\Debug\net5.0-windows\Timetable_Maker.Form1.resources
+C:\Users\Worker\Desktop\программирование\пятый семестр\Timetable_Maker\Timetable Maker\obj\Debug\net5.0-windows\Timetable Maker.csproj.GenerateResource.cache
+C:\Users\Worker\Desktop\программирование\пятый семестр\Timetable_Maker\Timetable Maker\obj\Debug\net5.0-windows\Timetable Maker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Worker\Desktop\программирование\пятый семестр\Timetable_Maker\Timetable Maker\obj\Debug\net5.0-windows\Timetable Maker.AssemblyInfoInputs.cache
+C:\Users\Worker\Desktop\программирование\пятый семестр\Timetable_Maker\Timetable Maker\obj\Debug\net5.0-windows\Timetable Maker.AssemblyInfo.cs
+C:\Users\Worker\Desktop\программирование\пятый семестр\Timetable_Maker\Timetable Maker\obj\Debug\net5.0-windows\Timetable Maker.csproj.CoreCompileInputs.cache
+C:\Users\Worker\Desktop\программирование\пятый семестр\Timetable_Maker\Timetable Maker\obj\Debug\net5.0-windows\Timetable Maker.dll
+C:\Users\Worker\Desktop\программирование\пятый семестр\Timetable_Maker\Timetable Maker\obj\Debug\net5.0-windows\ref\Timetable Maker.dll
+C:\Users\Worker\Desktop\программирование\пятый семестр\Timetable_Maker\Timetable Maker\obj\Debug\net5.0-windows\Timetable Maker.pdb
+C:\Users\Worker\Desktop\программирование\пятый семестр\Timetable_Maker\Timetable Maker\obj\Debug\net5.0-windows\Timetable Maker.genruntimeconfig.cache
+C:\Users\mikes\Downloads\Timetable Maker\obj\Debug\net5.0-windows\Timetable Maker.csproj.AssemblyReference.cache
+C:\Users\mikes\Downloads\Timetable Maker\obj\Debug\net5.0-windows\Timetable_Maker.AddTaskWindow.resources
+C:\Users\mikes\Downloads\Timetable Maker\obj\Debug\net5.0-windows\Timetable_Maker.TasksWindow.resources
+C:\Users\mikes\Downloads\Timetable Maker\obj\Debug\net5.0-windows\Timetable Maker.csproj.GenerateResource.cache
+C:\Users\mikes\Downloads\Timetable Maker\obj\Debug\net5.0-windows\Timetable Maker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikes\Downloads\Timetable Maker\obj\Debug\net5.0-windows\Timetable Maker.AssemblyInfoInputs.cache
+C:\Users\mikes\Downloads\Timetable Maker\obj\Debug\net5.0-windows\Timetable Maker.AssemblyInfo.cs
+C:\Users\mikes\Downloads\Timetable Maker\obj\Debug\net5.0-windows\Timetable Maker.csproj.CoreCompileInputs.cache
+C:\Users\mikes\Downloads\Timetable Maker\obj\Debug\net5.0-windows\Timetable Maker.dll
+C:\Users\mikes\Downloads\Timetable Maker\obj\Debug\net5.0-windows\ref\Timetable Maker.dll
+C:\Users\mikes\Downloads\Timetable Maker\obj\Debug\net5.0-windows\Timetable Maker.pdb
+C:\Users\mikes\Downloads\Timetable Maker\bin\Debug\net5.0-windows\Timetable Maker.exe
+C:\Users\mikes\Downloads\Timetable Maker\bin\Debug\net5.0-windows\Timetable Maker.deps.json
+C:\Users\mikes\Downloads\Timetable Maker\bin\Debug\net5.0-windows\Timetable Maker.runtimeconfig.json
+C:\Users\mikes\Downloads\Timetable Maker\bin\Debug\net5.0-windows\Timetable Maker.runtimeconfig.dev.json
+C:\Users\mikes\Downloads\Timetable Maker\bin\Debug\net5.0-windows\Timetable Maker.dll
+C:\Users\mikes\Downloads\Timetable Maker\bin\Debug\net5.0-windows\ref\Timetable Maker.dll
+C:\Users\mikes\Downloads\Timetable Maker\bin\Debug\net5.0-windows\Timetable Maker.pdb
+C:\Users\mikes\Downloads\Timetable Maker\obj\Debug\net5.0-windows\Timetable Maker.genruntimeconfig.cache
+C:\Users\mikes\Downloads\Timetable Maker\obj\Debug\net5.0-windows\Timetable_Maker.TimetableForm.resources
